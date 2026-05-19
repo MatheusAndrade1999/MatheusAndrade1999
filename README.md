@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Olá eu sou o <b>Matheus</b>, aluno do terceiro semestre de<b> Análise e Desenvolvimento de Sistemas</b> graduando na <b>Faculdade de Tecnologia de São Paulo - FATEC</b>, São José dos Campos.
+    Olá eu sou o <b>Matheus</b>, aluno do sexto semestre de<b> Análise e Desenvolvimento de Sistemas</b> graduando na <b>Faculdade de Tecnologia de São Paulo - FATEC</b>, São José dos Campos.
 </p>
     
  📔 Linguagens mais usadas:
